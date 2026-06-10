@@ -1,1 +1,0 @@
-Lourenço Lemos
