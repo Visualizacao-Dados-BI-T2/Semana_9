@@ -1,7 +1,7 @@
 ## para atualizar o arquivo
 
-git fetch upstream
-git pull upstream main
+- git fetch upstream
+- git pull upstream main
 
 
 
